@@ -1,0 +1,24 @@
+.button {
+    padding: 0.5em 1em;
+    line-height: 1em;
+    border-radius: 1em;
+    color: #8b8bdd;
+    cursor: pointer;
+    border: 1px solid #8b8bdd;
+    background-color: transparent;
+}
+
+.button:hover {
+    color: #7575de;
+    border: 1px solid #7575de;
+}
+
+.button:active {
+    color: #5050e9;
+    border: 1px solid #5050e9;
+}
+
+.button:disabled {
+    color: #595a62;
+    border: 1px solid #595a62;
+}

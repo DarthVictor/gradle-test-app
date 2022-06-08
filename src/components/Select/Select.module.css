@@ -1,0 +1,16 @@
+.select {
+    padding: 0.5em 2em 0.5em 1em;
+    border: 1px solid #8b8bdd;
+    border-radius: 0.25em;
+
+    appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg fill='%238b8bdd' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+    background-repeat: no-repeat;
+    background-position: 98% center;
+}
+
+.select:active,
+.select:focus {
+    border: 1px solid #5050e9;
+    outline: none;
+}

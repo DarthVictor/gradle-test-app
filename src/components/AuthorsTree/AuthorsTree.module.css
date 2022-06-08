@@ -1,0 +1,21 @@
+.authors_tree {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter {
+    font-size: 0.9em;
+}
+
+.author {
+    margin: 1em 0;
+}
+
+.author_name {
+    margin: 0;
+}
+
+.repo {
+    padding: 0.25em 0;
+    font-style: italic;
+}

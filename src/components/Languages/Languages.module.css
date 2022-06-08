@@ -1,0 +1,12 @@
+.lang {
+    margin-left: 0.5em;
+    background-color: #8b8bdd;
+    color: white;
+    border-radius: 1em;
+    display: inline-block;
+    padding: 0.25em 0.75em;
+}
+
+.lang.selected {
+    background-color: #5050e9;
+}

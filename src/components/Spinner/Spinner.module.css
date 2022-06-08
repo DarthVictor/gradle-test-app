@@ -1,0 +1,31 @@
+.spinner {
+    padding: 188px 0 187px;
+    background-color: white;
+}
+
+.spinner > div {
+    margin: 0 auto;
+    width: 80px;
+    height: 80px;
+}
+
+.spinner > div:after {
+    content: " ";
+    display: block;
+    width: 64px;
+    height: 64px;
+    margin: 8px;
+    border-radius: 50%;
+    border: 6px solid #8b8bdd;
+    border-color: #8b8bdd transparent #8b8bdd transparent;
+    animation: spinner-ring 1.2s linear infinite;
+}
+
+@keyframes spinner-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

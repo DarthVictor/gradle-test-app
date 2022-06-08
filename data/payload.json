@@ -1,0 +1,104 @@
+{
+    "repositories": [
+        {
+            "name": "react",
+            "owner": "afishlee0",
+            "languages": ["Scala", "C#"]
+        },
+        {
+            "name": "webpack",
+            "owner": "kwenger5",
+            "languages": ["Scala"]
+        },
+        {
+            "name": "angularjs",
+            "owner": "shonnan1",
+            "languages": ["Scala"]
+        },
+        {
+            "name": "spring",
+            "owner": "hmalicki6",
+            "languages": ["TypeScript", "Kotlin"]
+        },
+        {
+            "name": "vaadin",
+            "owner": "mtheaker8",
+            "languages": ["Cobol"]
+        },
+        {
+            "name": "vue",
+            "owner": "mtheaker8",
+            "languages": ["Basic"]
+        },
+        {
+            "name": "node",
+            "owner": "dgarz2",
+            "languages": ["C#", "R", "TypeScript"]
+        },
+        {
+            "name": "backbone",
+            "owner": "mtheaker8",
+            "languages": ["R", "Basic", "Cobol"]
+        },
+        {
+            "name": "graphql",
+            "owner": "afishlee0",
+            "languages": ["R", "Basic", "Pascal"]
+        },
+        {
+            "name": "junit",
+            "owner": "bmutton4",
+            "languages": ["C++", "TypeScript"]
+        },
+        {
+            "name": "ratpack",
+            "owner": "mtheaker8",
+            "languages": ["R"]
+        },
+        {
+            "name": "django",
+            "owner": "mtheaker8",
+            "languages": ["Kotlin", "Cobol", "Scala"]
+        },
+        {
+            "name": "nextjs",
+            "owner": "shonnan1",
+            "languages": ["JavaScript", "TypeScript", "C++"]
+        },
+        {
+            "name": "gatsbyjs",
+            "owner": "shonnan1",
+            "languages": ["R", "C++"]
+        },
+        {
+            "name": "express",
+            "owner": "mtheaker8",
+            "languages": ["C#", "Pascal", "Kotlin"]
+        },
+        {
+            "name": "sinatra",
+            "owner": "kwenger5",
+            "languages": ["C++"]
+        },
+        {
+            "name": "typescript",
+            "owner": "hmalicki6",
+            "languages": ["Pascal", "Kotlin", "Java"]
+        },
+        {
+            "name": "gem",
+            "owner": "afishlee0",
+            "languages": ["R", "Pascal"]
+        },
+        {
+            "name": "graphiql",
+            "owner": "afishlee0",
+            "languages": ["Scala"]
+        },
+        {
+            "name": "gradle",
+            "owner": "shonnan1",
+            "languages": ["Pascal", "C#", "C++"]
+        }
+    ]
+}

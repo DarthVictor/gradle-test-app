@@ -1,0 +1,21 @@
+.repos_list {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter {
+    font-size: 0.9em;
+}
+
+.repo {
+    margin: 0.5em 0;
+}
+
+.repo_name {
+    font-style: italic;
+    margin: 0 0 0.5em;
+}
+
+.repo_langs {
+    margin: 0.5em 0;
+}
